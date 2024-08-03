@@ -1,1 +1,1 @@
-export const baseDomain = "lastqr.huaiyukhaw.com";
+export const baseDomain = "res-menu-sigma.vercel.app";
